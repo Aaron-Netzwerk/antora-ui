@@ -27,6 +27,6 @@ jobs:
       uses: actions/upload-artifact@v3.1.1
       with:
         name: ui-bundle
-        path: build/ui-bundle.zip
+        path: public/_
         if-no-files-found: error
-        
+
