@@ -19,6 +19,7 @@
   ],
   "devDependencies": {
     "@asciidoctor/core": "~2.2",
+    "@fontsource/montserrat": "^4.5.13",
     "@fontsource/roboto": "~4.5",
     "@fontsource/roboto-mono": "~4.5",
     "autoprefixer": "~9.7",
